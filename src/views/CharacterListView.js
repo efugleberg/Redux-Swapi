@@ -6,6 +6,7 @@ import { getCharacters } from '../actions';
 // import actions
 
 class CharacterListView extends React.Component {
+  // eslint-disable-next-line
   constructor() {
     super();
   }
